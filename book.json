@@ -1,0 +1,9 @@
+{
+    "plugins": ["edit-link"],
+    "pluginsConfig": {
+        "edit-link": {
+            "base": "http://localhost:4000",
+            "label": "Edit This Page"
+        }
+    }
+}
