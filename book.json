@@ -1,9 +1,12 @@
 {
-    "plugins": ["edit-link"],
+    "plugins": ["edit-link", "disqus"],
     "pluginsConfig": {
         "edit-link": {
-            "base": "http://localhost:4000",
+            "base": "https://github.com/Svtter/book-templete",
             "label": "Edit This Page"
+        },
+        "disqus": {
+            "shortName": "Svtter"
         }
     }
 }
