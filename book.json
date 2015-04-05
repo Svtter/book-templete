@@ -2,7 +2,7 @@
     "plugins": ["edit-link", "disqus"],
     "pluginsConfig": {
         "edit-link": {
-            "base": "https://github.com/Svtter/book-templete",
+            "base": "https://github.com/Svtter/book-templete/edit/master/"
             "label": "Edit This Page"
         },
         "disqus": {
